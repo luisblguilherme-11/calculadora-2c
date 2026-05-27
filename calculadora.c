@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include "function_multiplicar.c"
 #include "function_dividir.c"
-//Desenvolvido por Thiago Bonfanti Guimarães, 1° DS
+//Desenvolvido por Luís Guilherme, 1° DS
 
 int main() 
 {
