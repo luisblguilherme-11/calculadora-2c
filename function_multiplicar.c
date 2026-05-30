@@ -1,5 +1,4 @@
 #include <stdio.h>
-//Desenvolvido por Luís Guilherme, 1° DS
 
 int multiplicar(int a, int b) 
 {
@@ -17,5 +16,6 @@ int multiplicar(int a, int b)
         resultado += a;
     }
 
+    printf("\nFeito por Luís Guilherme ( https://github.com/luisblguilherme-11 ) ");
     return resultado;
 }
