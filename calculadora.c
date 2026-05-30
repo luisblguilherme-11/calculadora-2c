@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include "function_multiplicar.c"
 #include "function_dividir.c"
-//Desenvolvido por Luís Guilherme, 1° DS
 
 int main() 
 {
@@ -51,5 +50,6 @@ int main()
     } while (opcao != 0);
 
     printf("\nPrograma encerrado.\n");
+    printf("\nFeito por Luís Guilherme ( https://github.com/luisblguilherme-11 ) ");
     return 0;
 }
