@@ -1,5 +1,4 @@
 #include <stdio.h>
-//Desenvolvido por Luís Guilherme, 1° DS
 
 int dividir(int numero1, int numero2)
 {
@@ -16,5 +15,7 @@ int dividir(int numero1, int numero2)
      quociente = quociente + 1;
      resto = resto - divisor;
    }
+
+    printf("\nFeito por Luís Guilherme ( https://github.com/luisblguilherme-11 ) ");
     return quociente;
 }
