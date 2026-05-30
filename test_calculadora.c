@@ -11,5 +11,6 @@ int main()
     assert(dividir(144,12) == 12);
     printf("Teste executado com sucesso");
 
+    printf("\nFeito por Luís Guilherme ( https://github.com/luisblguilherme-11 ) ");
     return 0;
 }
