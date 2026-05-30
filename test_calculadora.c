@@ -1,5 +1,3 @@
-//Desenvolvido por Luís Guilherme, 1° DS
-
 #include <assert.h>
 #include <stdio.h>
 #include "function_dividir.c"
